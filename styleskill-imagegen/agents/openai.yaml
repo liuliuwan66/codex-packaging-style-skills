@@ -1,0 +1,7 @@
+interface:
+  display_name: "StyleSkill ImageGen"
+  short_description: "从包装图片提炼风格并直接出图"
+  default_prompt: "使用 $styleskill-imagegen 分析这张包装图片，并直接生成同风格包装图。"
+
+policy:
+  allow_implicit_invocation: true
