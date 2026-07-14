@@ -1,0 +1,7 @@
+interface:
+  display_name: "StyleSkill"
+  short_description: "从包装图片提炼中文复刻提示词"
+  default_prompt: "使用 $styleskill 分析这张包装图片，并输出中文 Image2 风格复刻提示词。"
+
+policy:
+  allow_implicit_invocation: true
