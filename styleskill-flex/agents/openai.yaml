@@ -1,0 +1,7 @@
+interface:
+  display_name: "StyleSkill Flex"
+  short_description: "学习包装画风并生成相似变体提示词"
+  default_prompt: "使用 $styleskill-flex 分析这张包装图片，并输出相似但不相同的包装风格变体提示词。"
+
+policy:
+  allow_implicit_invocation: true
