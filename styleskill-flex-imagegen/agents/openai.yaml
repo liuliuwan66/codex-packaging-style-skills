@@ -1,0 +1,7 @@
+interface:
+  display_name: "StyleSkill Flex ImageGen"
+  short_description: "学习包装画风并直接生成非抄袭变体图"
+  default_prompt: "使用 $styleskill-flex-imagegen 分析这张包装图片，并直接生成相似但不照抄的包装风格变体图。"
+
+policy:
+  allow_implicit_invocation: true
